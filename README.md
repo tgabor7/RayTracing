@@ -2,4 +2,4 @@
 
 Ray tracer program using OpenGL compute shaders.
 
-<img src="images/ray.png">
+<img src="images/ray.PNG">
