@@ -1,5 +1,5 @@
-# RayTracing
+# Ray Tracer
 
-bounding volume hierarchy
-anti aliasing alpha blending
-denoise
+Ray tracer program using OpenGL compute shaders.
+
+<img src="images/ray.png">
